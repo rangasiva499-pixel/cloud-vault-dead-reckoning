@@ -3,5 +3,10 @@
     "story": "Dead Reckoning",
     "episode": 907,
     "reason": "Stage 1 Gate Failed: Downloaded only 35426 bytes for Ep 907 (under 500KB)!"
+  },
+  {
+    "story": "Dead Reckoning",
+    "episode": 870,
+    "reason": "Stage 1 Gate Failed: Byte-match mismatch for Ep 870 (got 0, expected 13574586)"
   }
 ]
